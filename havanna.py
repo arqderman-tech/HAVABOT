@@ -14,7 +14,8 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 def obtener_dolar():
     try:
-        bn = next((x for x in requests.get(DOLAR_URL, timeout=10).json() if x.get("slug") == "banco-nacion"), None)
+        bn = next((x for x in requests.get(DOLAR_URL, timeout=10).json()
+                   if x.get("slug") == "banco-nacion"), None)
         return float(bn["ask"]) if bn else 1.0
     except Exception:
         return 1.0
@@ -45,7 +46,7 @@ def scrape_url(url):
 def main():
     print("HAVANNABOT iniciando...")
     dolar = obtener_dolar()
-    print("Dolar: " + str(dolar))
+    print("Dolar BN: " + str(dolar))
     hoy = datetime.now().strftime("%Y-%m-%d")
     vistos = set()
     rows = []
@@ -56,14 +57,17 @@ def main():
             print("  " + label + ": " + str(len(items)) + " items")
             for item in items:
                 nombre = item["info"]["item_name"]
-                if nombre in vistos: continue
+                if nombre in vistos:
+                    continue
                 vistos.add(nombre)
                 precio_pkg = float(item["info"]["price"])
                 uds = extraer_unidades(nombre)
-                precio_u = precio_pkg / uds if uds > 1 else precio_pkg
-                rows.append({"Fecha": hoy, "Categoria": inferir_categoria(nombre), "Producto": nombre,
-                             "Precio_ARS": round(precio_u, 2), "Precio_USD": round(precio_u / dolar, 2),
-                             "Dolar_ARS": dolar})
+                precio_u = round(precio_pkg / uds, 2) if uds > 1 else precio_pkg
+                rows.append({
+                    "Fecha": hoy, "Categoria": inferir_categoria(nombre),
+                    "Producto": nombre, "Precio_ARS": precio_u,
+                    "Precio_USD": round(precio_u / dolar, 2), "Dolar_ARS": dolar
+                })
         except Exception as e:
             print("  Error " + url + ": " + str(e))
     if not rows:
