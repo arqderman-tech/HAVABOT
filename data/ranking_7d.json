@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "nombre": "HAVANNETS DE COCO 70% CACAO x 6uds",
+    "categoria": "Havannets",
+    "diff_pct": 42.86,
+    "precio_hoy": 1833.33
+  },
+  {
+    "nombre": "TABLETA DE CHOCOLATE BLANCO",
+    "categoria": "Chocolates",
+    "diff_pct": 42.86,
+    "precio_hoy": 7200.0
+  },
+  {
+    "nombre": "TABLETA DE CHOCOLATE CON LECHE",
+    "categoria": "Chocolates",
+    "diff_pct": 42.86,
+    "precio_hoy": 7200.0
+  },
+  {
+    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO CON ALMENDRAS",
+    "categoria": "Chocolates",
+    "diff_pct": 42.86,
+    "precio_hoy": 10500.0
+  },
+  {
+    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO",
+    "categoria": "Chocolates",
+    "diff_pct": 42.86,
+    "precio_hoy": 10500.0
+  },
+  {
+    "nombre": "TRUFAS 70% CACAO x 200g",
+    "categoria": "Otros",
+    "diff_pct": 42.86,
+    "precio_hoy": 24500.0
+  },
+  {
+    "nombre": "CORONITAS 70% CACAO PURO x 10uds",
+    "categoria": "Otros",
+    "diff_pct": 42.86,
+    "precio_hoy": 2050.0
+  },
+  {
+    "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
+    "categoria": "Chocolates",
+    "diff_pct": 42.86,
+    "precio_hoy": 10500.0
+  },
+  {
+    "nombre": "TRUFAS SURTIDAS x 200g",
+    "categoria": "Otros",
+    "diff_pct": 42.86,
+    "precio_hoy": 24500.0
+  },
+  {
+    "nombre": "CORONITAS SURTIDAS x 20 uds",
+    "categoria": "Otros",
+    "diff_pct": 42.86,
+    "precio_hoy": 34500.0
+  },
+  {
+    "nombre": "ALFAJORES SUPER DULCE DE LECHE x 9uds",
+    "categoria": "Alfajores",
+    "diff_pct": 42.86,
+    "precio_hoy": 3444.44
+  },
+  {
+    "nombre": "ALFAJORES SIN AZÚCAR x 9uds",
+    "categoria": "Alfajores",
+    "diff_pct": 42.86,
+    "precio_hoy": 3444.44
+  },
+  {
+    "nombre": "MINITABLETAS x 48uds",
+    "categoria": "Otros",
+    "diff_pct": 42.86,
+    "precio_hoy": 781.25
+  }
+]
