@@ -6,25 +6,25 @@
     "precio_hoy": 35500.0
   },
   {
-    "nombre": "ALFAJORES SUPER DULCE DE LECHE x 9uds",
-    "categoria": "Alfajores",
-    "diff_pct": 6.45,
-    "precio_hoy": 3666.67
-  },
-  {
     "nombre": "ALFAJORES SIN AZÚCAR x 9uds",
     "categoria": "Alfajores",
     "diff_pct": 6.45,
     "precio_hoy": 3666.67
   },
   {
-    "nombre": "TRUFAS 70% CACAO x 200g",
+    "nombre": "ALFAJORES SUPER DULCE DE LECHE x 9uds",
+    "categoria": "Alfajores",
+    "diff_pct": 6.45,
+    "precio_hoy": 3666.67
+  },
+  {
+    "nombre": "TRUFAS SURTIDAS x 200g",
     "categoria": "Otros",
     "diff_pct": 6.12,
     "precio_hoy": 26000.0
   },
   {
-    "nombre": "TRUFAS SURTIDAS x 200g",
+    "nombre": "TRUFAS 70% CACAO x 200g",
     "categoria": "Otros",
     "diff_pct": 6.12,
     "precio_hoy": 26000.0
@@ -60,13 +60,13 @@
     "precio_hoy": 2150.0
   },
   {
-    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO",
+    "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
     "categoria": "Chocolates",
     "diff_pct": 4.76,
     "precio_hoy": 11000.0
   },
   {
-    "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
+    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO",
     "categoria": "Chocolates",
     "diff_pct": 4.76,
     "precio_hoy": 11000.0
@@ -100,12 +100,6 @@
     "categoria": "Chocolates",
     "diff_pct": 4.17,
     "precio_hoy": 7500.0
-  },
-  {
-    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
-    "categoria": "Alfajores",
-    "diff_pct": 4.17,
-    "precio_hoy": 2083.33
   },
   {
     "nombre": "ALFAJORES CHOCOLATE x 12uds",
