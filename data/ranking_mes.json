@@ -36,13 +36,13 @@
     "precio_hoy": 36500.0
   },
   {
-    "nombre": "ALFAJORES PLAYA GRANDE Y PLAYA BRISTOL x 8uds",
+    "nombre": "ALFAJORES MAR DEL PLATA x 8uds",
     "categoria": "Alfajores",
     "diff_pct": 5.36,
     "precio_hoy": 3687.5
   },
   {
-    "nombre": "ALFAJORES MAR DEL PLATA x 8uds",
+    "nombre": "ALFAJORES PLAYA GRANDE Y PLAYA BRISTOL x 8uds",
     "categoria": "Alfajores",
     "diff_pct": 5.36,
     "precio_hoy": 3687.5
@@ -60,12 +60,6 @@
     "precio_hoy": 2150.0
   },
   {
-    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO CON ALMENDRAS",
-    "categoria": "Chocolates",
-    "diff_pct": 4.76,
-    "precio_hoy": 11000.0
-  },
-  {
     "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
     "categoria": "Chocolates",
     "diff_pct": 4.76,
@@ -73,6 +67,12 @@
   },
   {
     "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO",
+    "categoria": "Chocolates",
+    "diff_pct": 4.76,
+    "precio_hoy": 11000.0
+  },
+  {
+    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO CON ALMENDRAS",
     "categoria": "Chocolates",
     "diff_pct": 4.76,
     "precio_hoy": 11000.0
@@ -108,13 +108,13 @@
     "precio_hoy": 7500.0
   },
   {
-    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
+    "nombre": "ALFAJORES CHOCOLATE x 12uds",
     "categoria": "Alfajores",
     "diff_pct": 4.17,
     "precio_hoy": 2083.33
   },
   {
-    "nombre": "ALFAJORES CHOCOLATE x 12uds",
+    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
     "categoria": "Alfajores",
     "diff_pct": 4.17,
     "precio_hoy": 2083.33
@@ -132,21 +132,15 @@
     "precio_hoy": 2166.67
   },
   {
-    "nombre": "MINI ALFAJORES DE CHOCOLATE x 475g",
-    "categoria": "Alfajores",
-    "diff_pct": 3.57,
-    "precio_hoy": 29000.0
-  },
-  {
     "nombre": "MINI ALFAJORES MIXTOS DE CHOCOLATE x 475g",
     "categoria": "Alfajores",
     "diff_pct": 3.57,
     "precio_hoy": 29000.0
   },
   {
-    "nombre": "ALFAJORES 70% CACAO PURO x 9uds",
+    "nombre": "MINI ALFAJORES DE CHOCOLATE x 475g",
     "categoria": "Alfajores",
-    "diff_pct": 3.23,
-    "precio_hoy": 3555.56
+    "diff_pct": 3.57,
+    "precio_hoy": 29000.0
   }
 ]
