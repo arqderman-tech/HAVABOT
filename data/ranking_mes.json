@@ -108,25 +108,25 @@
     "precio_hoy": 7500.0
   },
   {
-    "nombre": "ALFAJORES CHOCOLATE x 12uds",
-    "categoria": "Alfajores",
-    "diff_pct": 4.17,
-    "precio_hoy": 2083.33
-  },
-  {
     "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
     "categoria": "Alfajores",
     "diff_pct": 4.17,
     "precio_hoy": 2083.33
   },
   {
-    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 6uds",
+    "nombre": "ALFAJORES CHOCOLATE x 12uds",
+    "categoria": "Alfajores",
+    "diff_pct": 4.17,
+    "precio_hoy": 2083.33
+  },
+  {
+    "nombre": "ALFAJORES CHOCOLATE x 6uds",
     "categoria": "Alfajores",
     "diff_pct": 4.0,
     "precio_hoy": 2166.67
   },
   {
-    "nombre": "ALFAJORES CHOCOLATE x 6uds",
+    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 6uds",
     "categoria": "Alfajores",
     "diff_pct": 4.0,
     "precio_hoy": 2166.67
