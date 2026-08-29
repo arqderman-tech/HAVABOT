@@ -1,24 +1,24 @@
 {
-  "variacion_dia": 8.16,
+  "variacion_dia": 0.0,
   "variacion_mes": 8.16,
   "total_productos": 27,
   "categorias": {
     "Alfajores": {
       "total": 14,
-      "variacion_dia": 8.88
+      "variacion_dia": 0.0
     },
     "Havannets": {
       "total": 3,
-      "variacion_dia": 8.83
+      "variacion_dia": 0.0
     },
     "Chocolates": {
       "total": 5,
-      "variacion_dia": 8.12
+      "variacion_dia": 0.0
     },
     "Otros": {
       "total": 5,
-      "variacion_dia": 5.81
+      "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-28"
+  "fecha_actualizacion": "2026-08-29"
 }
