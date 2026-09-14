@@ -1,10 +1,10 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": 8.16,
-  "total_productos": 27,
+  "total_productos": 22,
   "categorias": {
     "Alfajores": {
-      "total": 14,
+      "total": 9,
       "variacion_dia": 0.0
     },
     "Havannets": {
@@ -20,5 +20,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-09-13"
+  "fecha_actualizacion": "2026-09-14"
 }
