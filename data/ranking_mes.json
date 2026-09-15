@@ -30,13 +30,13 @@
     "precio_hoy": 24000.0
   },
   {
-    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO CON ALMENDRAS",
+    "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
     "categoria": "Chocolates",
     "diff_pct": 9.09,
     "precio_hoy": 12000.0
   },
   {
-    "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
+    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO CON ALMENDRAS",
     "categoria": "Chocolates",
     "diff_pct": 9.09,
     "precio_hoy": 12000.0
@@ -49,6 +49,12 @@
   },
   {
     "nombre": "ALFAJORES SUPER DULCE DE LECHE x 9uds",
+    "categoria": "Alfajores",
+    "diff_pct": 9.09,
+    "precio_hoy": 4000.0
+  },
+  {
+    "nombre": "ALFAJORES SIN AZÚCAR x 9uds",
     "categoria": "Alfajores",
     "diff_pct": 9.09,
     "precio_hoy": 4000.0
@@ -78,10 +84,34 @@
     "precio_hoy": 31500.0
   },
   {
+    "nombre": "MINI ALFAJORES MAR DEL PLATA x 560g",
+    "categoria": "Alfajores",
+    "diff_pct": 8.45,
+    "precio_hoy": 38500.0
+  },
+  {
     "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
     "categoria": "Alfajores",
     "diff_pct": 8.0,
     "precio_hoy": 2250.0
+  },
+  {
+    "nombre": "ALFAJORES CHOCOLATE x 12uds",
+    "categoria": "Alfajores",
+    "diff_pct": 8.0,
+    "precio_hoy": 2250.0
+  },
+  {
+    "nombre": "ALFAJORES CHOCOLATE x 6uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.69,
+    "precio_hoy": 2333.33
+  },
+  {
+    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 6uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.69,
+    "precio_hoy": 2333.33
   },
   {
     "nombre": "CORONITAS 70% CACAO PURO x 10uds",
