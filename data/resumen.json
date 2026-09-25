@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": 8.16,
-  "total_productos": 27,
+  "total_productos": 28,
   "categorias": {
     "Alfajores": {
       "total": 14,
@@ -11,14 +11,14 @@
       "total": 3,
       "variacion_dia": 0.0
     },
-    "Chocolates": {
-      "total": 5,
+    "Otros": {
+      "total": 6,
       "variacion_dia": 0.0
     },
-    "Otros": {
+    "Chocolates": {
       "total": 5,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-09-24"
+  "fecha_actualizacion": "2026-09-25"
 }
