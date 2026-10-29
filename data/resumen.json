@@ -1,18 +1,18 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": 0.0,
-  "total_productos": 27,
+  "total_productos": 19,
   "categorias": {
     "Alfajores": {
-      "total": 14,
+      "total": 9,
       "variacion_dia": 0.0
     },
     "Havannets": {
-      "total": 2,
+      "total": 1,
       "variacion_dia": 0.0
     },
     "Otros": {
-      "total": 6,
+      "total": 4,
       "variacion_dia": 0.0
     },
     "Chocolates": {
@@ -20,5 +20,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-28"
+  "fecha_actualizacion": "2026-10-29"
 }
