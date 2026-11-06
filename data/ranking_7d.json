@@ -1,110 +1,104 @@
 [
   {
-    "nombre": "MINITABLETAS x 48uds",
-    "categoria": "Otros",
-    "diff_pct": -20.0,
-    "precio_hoy": 691.67
-  },
-  {
-    "nombre": "HAVANNETS DE CHOCOLATE x 6uds",
-    "categoria": "Havannets",
-    "diff_pct": -20.0,
-    "precio_hoy": 1666.67
-  },
-  {
-    "nombre": "ALFAJORES DUBAI x 4uds",
-    "categoria": "Alfajores",
-    "diff_pct": -20.0,
-    "precio_hoy": 4700.0
-  },
-  {
-    "nombre": "ALFAJORES PLAYA GRANDE Y PLAYA BRISTOL x 8uds",
-    "categoria": "Alfajores",
-    "diff_pct": -20.0,
-    "precio_hoy": 3300.0
-  },
-  {
-    "nombre": "ALFAJORES CHOCOLATE x 12uds",
-    "categoria": "Alfajores",
-    "diff_pct": -20.0,
-    "precio_hoy": 1800.0
-  },
-  {
-    "nombre": "ALFAJORES SUPER DULCE DE LECHE x 9uds",
-    "categoria": "Alfajores",
-    "diff_pct": -20.0,
-    "precio_hoy": 3200.0
-  },
-  {
-    "nombre": "MINI ALFAJORES DE CHOCOLATE x 475g",
-    "categoria": "Alfajores",
-    "diff_pct": -20.0,
-    "precio_hoy": 25200.0
-  },
-  {
-    "nombre": "MINI ALFAJORES MIXTOS DE CHOCOLATE x 475g",
-    "categoria": "Alfajores",
-    "diff_pct": -20.0,
-    "precio_hoy": 25200.0
-  },
-  {
-    "nombre": "HAVANNETS DE CHOCOLATE x 12uds",
-    "categoria": "Havannets",
-    "diff_pct": -20.0,
-    "precio_hoy": 1600.0
-  },
-  {
-    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
-    "categoria": "Alfajores",
-    "diff_pct": -20.0,
-    "precio_hoy": 1800.0
-  },
-  {
-    "nombre": "CORONITAS DUBAI x 10uds",
-    "categoria": "Otros",
-    "diff_pct": -20.0,
-    "precio_hoy": 2392.0
-  },
-  {
-    "nombre": "TRUFAS 70% CACAO x 200g",
-    "categoria": "Otros",
-    "diff_pct": -20.0,
-    "precio_hoy": 22000.0
-  },
-  {
-    "nombre": "TRUFAS SURTIDAS x 200g",
-    "categoria": "Otros",
-    "diff_pct": -20.0,
-    "precio_hoy": 22000.0
+    "nombre": "TABLETA DE CHOCOLATE BLANCO",
+    "categoria": "Chocolates",
+    "diff_pct": 8.75,
+    "precio_hoy": 8700.0
   },
   {
     "nombre": "TABLETA DE CHOCOLATE CON LECHE",
     "categoria": "Chocolates",
-    "diff_pct": -20.0,
-    "precio_hoy": 6400.0
+    "diff_pct": 8.75,
+    "precio_hoy": 8700.0
   },
   {
-    "nombre": "TABLETA DE CHOCOLATE BLANCO",
-    "categoria": "Chocolates",
-    "diff_pct": -20.0,
-    "precio_hoy": 6400.0
+    "nombre": "MINITABLETAS x 48uds",
+    "categoria": "Otros",
+    "diff_pct": 8.43,
+    "precio_hoy": 937.5
+  },
+  {
+    "nombre": "HAVANNETS DE CHOCOLATE x 12uds",
+    "categoria": "Havannets",
+    "diff_pct": 8.33,
+    "precio_hoy": 2166.67
+  },
+  {
+    "nombre": "HAVANNETS DE CHOCOLATE x 6uds",
+    "categoria": "Havannets",
+    "diff_pct": 8.0,
+    "precio_hoy": 2250.0
+  },
+  {
+    "nombre": "MINI ALFAJORES MIXTOS DE CHOCOLATE x 475g",
+    "categoria": "Alfajores",
+    "diff_pct": 7.94,
+    "precio_hoy": 34000.0
+  },
+  {
+    "nombre": "MINI ALFAJORES DE CHOCOLATE x 475g",
+    "categoria": "Alfajores",
+    "diff_pct": 7.94,
+    "precio_hoy": 34000.0
+  },
+  {
+    "nombre": "ALFAJORES PLAYA GRANDE Y PLAYA BRISTOL x 8uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.58,
+    "precio_hoy": 4437.5
   },
   {
     "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO",
     "categoria": "Chocolates",
-    "diff_pct": -20.0,
-    "precio_hoy": 9600.0
+    "diff_pct": 7.5,
+    "precio_hoy": 12900.0
   },
   {
     "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO CON ALMENDRAS",
     "categoria": "Chocolates",
-    "diff_pct": -20.0,
-    "precio_hoy": 9600.0
+    "diff_pct": 7.5,
+    "precio_hoy": 12900.0
   },
   {
     "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
     "categoria": "Chocolates",
-    "diff_pct": -20.0,
-    "precio_hoy": 9600.0
+    "diff_pct": 7.5,
+    "precio_hoy": 12900.0
+  },
+  {
+    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.41,
+    "precio_hoy": 2416.67
+  },
+  {
+    "nombre": "TRUFAS SURTIDAS x 200g",
+    "categoria": "Otros",
+    "diff_pct": 7.27,
+    "precio_hoy": 29500.0
+  },
+  {
+    "nombre": "TRUFAS 70% CACAO x 200g",
+    "categoria": "Otros",
+    "diff_pct": 7.27,
+    "precio_hoy": 29500.0
+  },
+  {
+    "nombre": "CORONITAS DUBAI x 10uds",
+    "categoria": "Otros",
+    "diff_pct": 7.02,
+    "precio_hoy": 3200.0
+  },
+  {
+    "nombre": "ALFAJORES SUPER DULCE DE LECHE x 9uds",
+    "categoria": "Alfajores",
+    "diff_pct": 6.94,
+    "precio_hoy": 4277.78
+  },
+  {
+    "nombre": "ALFAJORES DUBAI x 4uds",
+    "categoria": "Alfajores",
+    "diff_pct": 6.38,
+    "precio_hoy": 6250.0
   }
 ]
