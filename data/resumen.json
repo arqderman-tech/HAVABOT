@@ -5,7 +5,7 @@
   "categorias": {
     "Cajas y Packs": {
       "total": 1,
-      "variacion_dia": null
+      "variacion_dia": 0.0
     },
     "Alfajores": {
       "total": 6,
@@ -24,5 +24,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-11-16"
+  "fecha_actualizacion": "2026-11-17"
 }
