@@ -18,10 +18,34 @@
     "precio_hoy": 937.5
   },
   {
+    "nombre": "HAVANNETS DE CHOCOLATE x 12uds",
+    "categoria": "Havannets",
+    "diff_pct": 8.33,
+    "precio_hoy": 2166.67
+  },
+  {
+    "nombre": "HAVANNETS DE CHOCOLATE x 6uds",
+    "categoria": "Havannets",
+    "diff_pct": 8.0,
+    "precio_hoy": 2250.0
+  },
+  {
     "nombre": "MINI ALFAJORES MIXTOS DE CHOCOLATE x 475g",
     "categoria": "Alfajores",
     "diff_pct": 7.94,
     "precio_hoy": 34000.0
+  },
+  {
+    "nombre": "ALFAJORES MAR DEL PLATA x 8uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.58,
+    "precio_hoy": 4437.5
+  },
+  {
+    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO",
+    "categoria": "Chocolates",
+    "diff_pct": 7.5,
+    "precio_hoy": 12900.0
   },
   {
     "nombre": "TABLETA DE CHOCOLATE 85% CACAO PURO",
@@ -36,10 +60,10 @@
     "precio_hoy": 12900.0
   },
   {
-    "nombre": "TABLETA DE CHOCOLATE 70% CACAO PURO",
-    "categoria": "Chocolates",
-    "diff_pct": 7.5,
-    "precio_hoy": 12900.0
+    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 12uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.41,
+    "precio_hoy": 2416.67
   },
   {
     "nombre": "TRUFAS SURTIDAS x 200g",
@@ -54,15 +78,45 @@
     "precio_hoy": 29500.0
   },
   {
+    "nombre": "ALFAJORES MIXTOS CLÁSICOS x 6uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.14,
+    "precio_hoy": 2500.0
+  },
+  {
+    "nombre": "ALFAJORES 70% CACAO PURO x 9uds",
+    "categoria": "Alfajores",
+    "diff_pct": 7.14,
+    "precio_hoy": 4166.67
+  },
+  {
     "nombre": "CORONITAS DUBAI x 10uds",
     "categoria": "Otros",
     "diff_pct": 7.02,
     "precio_hoy": 3200.0
   },
   {
+    "nombre": "ALFAJORES SUPER DULCE DE LECHE x 9uds",
+    "categoria": "Alfajores",
+    "diff_pct": 6.94,
+    "precio_hoy": 4277.78
+  },
+  {
+    "nombre": "MINI ALFAJORES MAR DEL PLATA x 560g",
+    "categoria": "Alfajores",
+    "diff_pct": 6.49,
+    "precio_hoy": 41000.0
+  },
+  {
     "nombre": "ALFAJORES DUBAI x 4uds",
     "categoria": "Alfajores",
     "diff_pct": 6.38,
     "precio_hoy": 6250.0
+  },
+  {
+    "nombre": "MINI ALFAJORES HAVANNA x LEO",
+    "categoria": "Alfajores",
+    "diff_pct": 6.25,
+    "precio_hoy": 25500.0
   }
 ]

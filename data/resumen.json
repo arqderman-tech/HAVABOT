@@ -1,13 +1,17 @@
 {
-  "variacion_dia": 0.0,
-  "variacion_mes": 7.67,
-  "total_productos": 12,
+  "variacion_dia": 2.91,
+  "variacion_mes": 7.48,
+  "total_productos": 21,
   "categorias": {
     "Cajas y Packs": {
       "total": 1,
       "variacion_dia": 0.0
     },
     "Alfajores": {
+      "total": 9,
+      "variacion_dia": 6.8
+    },
+    "Havannets": {
       "total": 2,
       "variacion_dia": 0.0
     },
